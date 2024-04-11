@@ -1,12 +1,12 @@
-1.//to run the program 
-<p>npm install</p>
+1.to run the program 
+<h1>npm install</h1>
 
 
 2.create a .env file 
-<p>
+<h1>
   MONGODB_URI="provide mongodb connection link"
   GOOGLE_MAP_API_KEY="provide google map api key"
   PORT="provide PORT"
-</p>
+</h1>
 
 3.npm start
